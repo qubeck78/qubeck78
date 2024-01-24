@@ -1,6 +1,6 @@
 Some of my hobby projects.
 
-Mostly: C, VHDL, C#, Open Scad
+Mostly: C, C++, VHDL, C#, Open Scad
 
 
 <!--
