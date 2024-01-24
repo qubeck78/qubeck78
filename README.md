@@ -1,4 +1,7 @@
-### Hi there 👋
+Some of my hobby projects.
+
+Mostly: C, VHDL, C#, Open Scad
+
 
 <!--
 **qubeck78/qubeck78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
